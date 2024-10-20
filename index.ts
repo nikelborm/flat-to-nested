@@ -7,6 +7,8 @@ import {
 import { describe, it, test } from 'node:test';
 import assert from 'node:assert';
 
+// for additional inspiration and new feature ideas look into https://github.com/archfirst/joinjs
+
 // const config2 = {
 //   schema: {
 //     'array-of': {
